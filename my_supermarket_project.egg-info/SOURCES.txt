@@ -1,0 +1,5 @@
+pyproject.toml
+my_supermarket_project.egg-info/PKG-INFO
+my_supermarket_project.egg-info/SOURCES.txt
+my_supermarket_project.egg-info/dependency_links.txt
+my_supermarket_project.egg-info/top_level.txt
